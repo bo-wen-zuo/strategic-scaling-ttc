@@ -1,0 +1,11 @@
+datasets
+pydra-config
+vllm
+tqdm
+pyyaml
+requests
+numpy
+sympy
+transformers
+torch
+git+https://github.com/EleutherAI/lm-evaluation-harness.git@8b41f92
